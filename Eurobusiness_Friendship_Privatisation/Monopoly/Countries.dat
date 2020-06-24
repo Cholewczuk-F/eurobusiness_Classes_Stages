@@ -1,0 +1,11 @@
+//name -- devcost -- country-id's...
+Grecja,100,2,4
+Wlochy,100,7,9,10
+Hiszpania,200,12,14,15
+Anglia,200,17,19,20
+Benelux,300,22,24,25
+Szwecja,300,27,28,30
+RFN,400,32,33,35
+Austria,400,38,40
+Linie Kolejowe,0,6,16,26,36
+Additional,0,13,29
